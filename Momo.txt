@@ -1,4 +1,5 @@
+Pridany riadok.
 Moj novy riadok
 Firmino druhy.
-Toto je nejaky novy text.
+Firmino druhy. Teeeeeeext.
 Koncovy riadok.
